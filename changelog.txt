@@ -12,5 +12,6 @@ Version 0.2
 Version 0.1
   Very first release!!!
   - Two new sprites for looking up
+  - Fourth sprite sheet for the new sprites
   
 ************************************
