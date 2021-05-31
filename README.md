@@ -3,7 +3,7 @@ This mod is for the Decompilation of the 2013 mobile remaster of Sonic the Hedge
 
 *Note that I am NOT that good with graphic design or pixel art*
 ## How To Install
-Simply plop 'SSConsitency' into your mods folder.
+Simply plop 'SSConsistency' into your mods folder.
 
 ## Other
 Feel free to edit, and repackage as you please. Just make sure to credit me if you are using my sprites.
