@@ -1,0 +1,10 @@
+Version 0.2
+  - Added a custom gasping animation
+  - Added a custom death animation (not currently used)
+  - Added a bouncing animation for springs
+  - Fixed an issue with the looking up animations being off-centre on the Y-Axis.
+  - Fixed Sonic's longer legs in the looking up animation
+
+Version 0.1
+  Very first release!!!
+  - Two new sprites for looking up
