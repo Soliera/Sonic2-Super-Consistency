@@ -9,4 +9,4 @@ Simply plop 'SSConsitency' into your mods folder.
 Feel free to edit, and repackage as you please. Just make sure to credit me if you are using my sprites.
 
 ### Contact
-If you have any questions feel free to ask me Discord. You sould be able to find me in the Retro Engine modding server.
+If you have any questions feel free to ask me on Discord. You sould be able to find me in the Retro Engine modding server.
