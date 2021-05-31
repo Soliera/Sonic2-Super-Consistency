@@ -6,4 +6,7 @@ This mod is for the Decompilation of the 2013 mobile remaster of Sonic the Hedge
 Simply plop 'SSConsitency' into your mods folder.
 
 ## Other
-Feel free to edit and redistribute as you wish. Just be sure to credit me if you use my sprites.
+Feel free to edit, and repackage as you please. Just make sure to credit me if you are using my sprites.
+
+### Contact
+If you have any questions feel free to ask me Discord. You sould be able to find me in the Retro Engine modding server.
