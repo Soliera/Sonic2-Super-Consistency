@@ -9,7 +9,9 @@ Version 0.3       Release Date: 01-06-2021
   - Added hanging sprites with animation loop (test in SFZ)
   
   4 new animations
-  7 new sprites in total
+  7 new sprites
+  1 unused sprite
+  12 sprites in total
   
 ************************************
 Version 0.2     Release Date: 31-05-2021
@@ -19,7 +21,9 @@ Version 0.2     Release Date: 31-05-2021
   - Fixed an issue with the looking up animations being off-centre on the Y-Axis.
   - Fixed Sonic's longer legs in the looking up animation
   
-  2 new sprites in total
+  2 new sprites
+  1 unused sprite
+  5 sprites in total
   
 ************************************
 Version 0.1     Release Date: 30-05-21
@@ -27,6 +31,8 @@ Version 0.1     Release Date: 30-05-21
   - Two new sprites for looking up
   - Fourth sprite sheet for the new sprites
   
-  2 new sprites in total
+  2 new sprites
+  2 sprites in total
+  
   
 ************************************
