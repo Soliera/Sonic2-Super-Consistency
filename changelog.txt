@@ -33,6 +33,3 @@ Version 0.1     Release Date: 30-05-21
   
   2 new sprites
   2 sprites in total
-  
-  
-************************************
