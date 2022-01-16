@@ -1,6 +1,15 @@
 A log of changes between each release.
 
 ************************************
+Version 0.4       Release Date: 15-01-2022
+  - tweaked the 'looking up' sprites to be more consistant with other sprites
+  - Added 'floating' sprites
+  - Added 'grabbed' sprites
+  
+  6 new sprites
+  1 unused sprite
+  18 sprites in total
+************************************
 Version 0.3       Release Date: 01-06-2021
   - Tweaked certain sprites
   - Added Animation loop for bouncing (test with diagonal sprints)
